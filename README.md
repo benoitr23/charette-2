@@ -14,11 +14,11 @@ Your guiding text will be the poem to which you choose to respond.
 
 * [Week 0](https://github.com/allegheny-college-art-387-spring-2020/course-materials/tree/master/Readings/Week%200)
 * [Week 1](https://github.com/allegheny-college-art-387-spring-2020/course-materials/tree/master/Readings/Week%201)
-* ["Six Villainelles & Other Thoughts on Drawing from Poems"](materials/Stoner - Six Villanelles and Other Thoughts on Drawing from Poems.pdf)
+* ["Six Villainelles & Other Thoughts on Drawing from Poems"](https://github.com/allegheny-college-art-387-spring-2020/charette-2/blob/master/materials/Stoner%20-%20Six%20Villanelles%20and%20Other%20Thoughts%20on%20Drawing%20from%20Poems.pdf)
 
 ## Activity
 
-- [ ] Choose 1 poem from the [Art 387 Poetry Packet](materials/ART 387 - Poetry Packet.pdf)
+- [ ] Choose 1 poem from the [Art 387 Poetry Packet](https://github.com/allegheny-college-art-387-spring-2020/charette-2/blob/master/materials/ART%20387%20-%20Poetry%20Packet.pdf)
 - [ ] Create a drawing or other graphical representation of the "space" of the poem
 - [ ] Create a response or descriptive poem dedicated to the space
     * See below for guidelines
